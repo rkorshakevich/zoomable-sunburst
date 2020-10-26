@@ -1,0 +1,38 @@
+{
+  "type": "panel",
+  "name": "Zoomable Sunburst",
+  "id": "datalab-by-zoomable-sunburst",
+  "info": {
+    "description": "Plugin to display hierarchical data",
+    "author": {
+      "name": "Raman Karshakevich",
+      "url": "https://github.com/rkorshakevich"
+    },
+    "keywords": [
+      "tree",
+      "hierarchical",
+      "d3"
+    ],
+    "logos": {
+      "small": "img/logo.svg",
+      "large": "img/logo.svg"
+    },
+    "links": [
+      {
+        "name": "Website",
+        "url": "https://github.com/rkorshakevich/zoomable-sunburst"
+      },
+      {
+        "name": "License",
+        "url": "https://github.com/grafana/simple-react-panel/blob/master/LICENSE"
+      }
+    ],
+    "screenshots": [],
+    "version": "%VERSION%",
+    "updated": "%TODAY%"
+  },
+  "dependencies": {
+    "grafanaVersion": "7.2.x",
+    "plugins": []
+  }
+}
